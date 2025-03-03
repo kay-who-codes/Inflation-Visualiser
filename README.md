@@ -1,6 +1,6 @@
-# Inflation Impact Visualizer
+# 📉 Inflation Visualiser
 
-A minimalistic dark-mode web app that visualizes the exponentially deteriorative effect of inflation on a given amount of money over time.
+A minimalistic dark-mode web app that visualises the exponentially deteriorative effect of inflation on a given amount of money over time.
 
 [![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Inflation-Visualiser)
 
